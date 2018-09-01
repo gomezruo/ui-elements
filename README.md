@@ -5,3 +5,6 @@ A selection of cheeky and reusable UI elements
 - Angular >6.x
 - Typescript
 - SCSS pre-compilation
+
+
+#### Please add this to the app's .gitignore :)
